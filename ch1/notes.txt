@@ -1,0 +1,5 @@
+The shell provides two interactive functions which work at the >>> prompt. The dir function lists an object’s attributes, whereas help provides access to the Python docs.
+
+example:  dir(random)
+
+ex:  help(random.randint)
